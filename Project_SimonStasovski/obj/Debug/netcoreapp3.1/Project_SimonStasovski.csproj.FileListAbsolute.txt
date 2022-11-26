@@ -1,0 +1,41 @@
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.exe
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.deps.json
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.runtimeconfig.json
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.runtimeconfig.dev.json
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.dll
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.pdb
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.csprojAssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.AssemblyInfo.cs
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.dll
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.pdb
+C:\Users\simon\OneDrive\Desktop\John_Abbott_College\semester_1\Programming 1\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.genruntimeconfig.cache
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.exe
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.deps.json
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.runtimeconfig.json
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.runtimeconfig.dev.json
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.dll
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.pdb
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.AssemblyInfo.cs
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.dll
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.pdb
+C:\Users\simon\Downloads\20201207195206_Project_SimonStasovski\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.genruntimeconfig.cache
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.exe
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.deps.json
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.runtimeconfig.json
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.runtimeconfig.dev.json
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.dll
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\bin\Debug\netcoreapp3.1\Project_SimonStasovski.pdb
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.csproj.AssemblyReference.cache
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.AssemblyInfo.cs
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.dll
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.pdb
+C:\Users\simon\Documents\Programming-1-Project\Project_SimonStasovski\obj\Debug\netcoreapp3.1\Project_SimonStasovski.genruntimeconfig.cache
